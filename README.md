@@ -1,4 +1,4 @@
-# Data Science DISCOVERY Project2 - README
+# Data Science DISCOVERY Final Project - README
 
 Welcome to the Data Science DISCOVERY Project2! This project focuses on analyzing the "Crash Reporting - Drivers Data" dataset from Montgomery County, Maryland. This README file will guide you through the project overview, features, setup instructions, and the various analyses conducted.
 
